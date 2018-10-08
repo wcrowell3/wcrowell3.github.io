@@ -1,0 +1,30 @@
+p{
+    color:black;
+    font-style:italic;
+    text-align: center;
+}
+body {
+    background-image: url("images/galaxy.jpg");
+    background-repeat: repeat-x;
+    background-color: blue;
+}
+h1 {
+    color: white;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li a {
+    display: block;
+    color: blue;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li {
+    float:left;
+}
